@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.header, 
+.banner,
+.footer {
+    color: white;
+    background: #1F2937;
+}
+.header {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+}
+
+.banner img {
+    height: auto;
+    width: 400px;
+}
+
+.info img {
+    height: 200px;
+    width: 200px;
+    border: solid 10px black;
+    border-radius: 25px;
+}
