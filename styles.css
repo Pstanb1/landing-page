@@ -34,9 +34,30 @@ li {
     padding: 10px;
 }
 
-.banner img {
-    height: auto;
+.banner {
+    height: 500px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.intro {
     width: 400px;
+    padding: 10px;
+
+}
+
+.title {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.banner img {
+    height: 250px;
+    width: 500px;
 }
 
 .info img {
