@@ -91,9 +91,78 @@ li {
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    height: 400px;
 
+}
+
+.main-title {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bolder;
 }
 
 .info {
     width: 200px;
+    margin-bottom: auto;
+}
+
+.text {
+    text-align: center;
+    padding: 5px;
+}
+
+.container1 {
+    height: 400px;
+    background: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.paragraph,
+.signature {
+    margin: 0px 200px;
+}
+
+.paragraph {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.signature {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: auto;
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: #3882f6;
+    color: white;
+    border-radius: 8px;
+    height: 150px;
+    width: 100%;
+    margin: 75px;
+}
+
+.button2 {
+    background: #3882f6;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 8px 24px;
+    border: solid white 2px;
 }
