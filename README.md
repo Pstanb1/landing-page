@@ -1,4 +1,4 @@
-This assigment project to create a landing page will help me consolidate the my learning on css and flexbox.
+This project, to create a landing page, will help me consolidate my learning on css, particularly flexbox.
 
 My goal is to recreate this design.
 
