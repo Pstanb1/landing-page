@@ -166,3 +166,12 @@ li {
     padding: 8px 24px;
     border: solid white 2px;
 }
+
+.footer {
+    height: 72px;
+    color: white;
+    background: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
